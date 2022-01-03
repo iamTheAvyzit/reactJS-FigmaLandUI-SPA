@@ -1,3 +1,9 @@
+# Desktop Size View : 
+![desktop](https://user-images.githubusercontent.com/94052679/147902237-8c142efb-e19a-4f3f-9855-e4f58eaf4244.png)
+
+# Fully Responsive Mobile View :
+![mobile__view](https://user-images.githubusercontent.com/94052679/147902270-ecff244a-f182-479f-a597-d062de0bbed8.png)
+
 # reactJS-FigmaLandUI-SPA
 Transformed a Figma design into a fully functioning website, improved CSS styling, and created modern and responsive ReactJS website. This is a landing page for a UI/UX sketch tool like Figma. Added few media queries to make it responsive.
 
