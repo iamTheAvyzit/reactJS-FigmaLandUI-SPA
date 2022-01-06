@@ -1,0 +1,10 @@
+.footer-end-bar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background: #6600FF;
+    color: #FFFFFF; 
+    position: relative;
+    bottom: -90rem;
+}
