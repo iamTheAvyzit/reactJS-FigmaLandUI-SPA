@@ -1,0 +1,61 @@
+.pricing {
+    display: flex;
+    justify-content: space-evenly;
+    color: #FFFFFF;
+    letter-spacing: 0.2px;
+    position: relative;
+    top: 1120px;
+}
+
+.pricing-header {
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 65px;
+    margin-bottom: 20px;
+}
+
+.pricing-desc {
+    max-width: 300px;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+}
+
+.pricing-list {
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 50px;
+    margin: 20px 50px 0px 0px;
+}
+
+.month {
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+
+.pricing button {
+    font-weight: bold;
+    align-items: center;
+    margin-top: 20px;
+    padding: 10px 40px;
+    background: #6600FF;
+    color: #FFFFFF;
+    border-radius: 35px;
+    border: 1px solid #6600FF;
+}
+
+@media screen and (max-width: 1080px) {
+    .pricing {
+        flex-direction: column;
+        width: 90%;
+        padding-left: 10px;
+        margin-bottom: 50px;
+    }
+}
