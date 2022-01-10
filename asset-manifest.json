@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactJS-FigmaLandUI-SPA/static/css/main.ddcc602a.chunk.css",
+    "main.js": "/reactJS-FigmaLandUI-SPA/static/js/main.b12a85b0.chunk.js",
+    "main.js.map": "/reactJS-FigmaLandUI-SPA/static/js/main.b12a85b0.chunk.js.map",
+    "runtime-main.js": "/reactJS-FigmaLandUI-SPA/static/js/runtime-main.e2df40ee.js",
+    "runtime-main.js.map": "/reactJS-FigmaLandUI-SPA/static/js/runtime-main.e2df40ee.js.map",
+    "static/js/2.5c744ecd.chunk.js": "/reactJS-FigmaLandUI-SPA/static/js/2.5c744ecd.chunk.js",
+    "static/js/2.5c744ecd.chunk.js.map": "/reactJS-FigmaLandUI-SPA/static/js/2.5c744ecd.chunk.js.map",
+    "index.html": "/reactJS-FigmaLandUI-SPA/index.html",
+    "static/css/main.ddcc602a.chunk.css.map": "/reactJS-FigmaLandUI-SPA/static/css/main.ddcc602a.chunk.css.map",
+    "static/js/2.5c744ecd.chunk.js.LICENSE.txt": "/reactJS-FigmaLandUI-SPA/static/js/2.5c744ecd.chunk.js.LICENSE.txt",
+    "static/media/Mac.35ecc19c.png": "/reactJS-FigmaLandUI-SPA/static/media/Mac.35ecc19c.png",
+    "static/media/Header.css": "/reactJS-FigmaLandUI-SPA/static/media/bg.a273706e.svg",
+    "static/media/browser.399f5ec2.png": "/reactJS-FigmaLandUI-SPA/static/media/browser.399f5ec2.png",
+    "static/media/cards.c910ad49.png": "/reactJS-FigmaLandUI-SPA/static/media/cards.c910ad49.png",
+    "static/media/girl.379c3cf1.png": "/reactJS-FigmaLandUI-SPA/static/media/girl.379c3cf1.png",
+    "static/media/map.1ef01ec0.png": "/reactJS-FigmaLandUI-SPA/static/media/map.1ef01ec0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2df40ee.js",
+    "static/js/2.5c744ecd.chunk.js",
+    "static/css/main.ddcc602a.chunk.css",
+    "static/js/main.b12a85b0.chunk.js"
+  ]
+}
